@@ -1,0 +1,25 @@
+{
+  "resources": [
+    "sound.ogg",
+    "sound.m4a",
+    "sound.mp3",
+    "sound.ac3"
+  ],
+  "spritemap": {
+    "01": {
+      "start": 0,
+      "end": 64.05598639455782,
+      "loop": false
+    },
+    "02": {
+      "start": 66,
+      "end": 584.6089795918367,
+      "loop": false
+    },
+    "03": {
+      "start": 586,
+      "end": 782.2318367346938,
+      "loop": false
+    }
+  }
+}
