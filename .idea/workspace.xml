@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3481e361-b5b8-46fa-9848-1d02a396fc0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sound/01.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/01.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/02.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/02.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/03.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/03.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sound.ac3" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/sound.ac3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sound.json" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/sound.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sound.m4a" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/sound.m4a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sound.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/sound.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sound.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/sound/blog201809/sound.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +14,7 @@
     <session id="-1359569240">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -62,8 +56,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="165" />
+    <option name="y" value="35" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -103,6 +98,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sound/blog201809" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -125,15 +125,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543515118743</updated>
-      <workItem from="1543515120028" duration="3238000" />
+      <workItem from="1543515120028" duration="7146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3238000" />
+    <option name="totallyTimeSpent" value="7146000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="165" y="35" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643468" />
