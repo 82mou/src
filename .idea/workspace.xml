@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3481e361-b5b8-46fa-9848-1d02a396fc0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/svg/moukon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/moukon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/moukon.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,11 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="svg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -102,6 +107,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/svg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -132,16 +138,15 @@
       <option name="presentableId" value="Default" />
       <updated>1543515118743</updated>
       <workItem from="1543515120028" duration="7146000" />
-      <workItem from="1545832150680" duration="402000" />
+      <workItem from="1545832150680" duration="2120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7548000" />
+    <option name="totallyTimeSpent" value="9266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17826618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
